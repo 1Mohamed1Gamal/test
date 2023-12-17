@@ -1,7 +1,8 @@
 #include <iostream>
 
 // Function to calculate the summation of two numbers
-double sum2(double a, double b) {
+double sum1(double a, double b) {
+
     return a - b;
 }
 
