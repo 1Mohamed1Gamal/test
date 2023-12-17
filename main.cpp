@@ -2,6 +2,7 @@
 
 // Function to calculate the summation of two numbers
 double sum1(double a, double b) {
+
     return a - b;
 }
 
